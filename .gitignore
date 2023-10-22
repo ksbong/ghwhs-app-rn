@@ -8,6 +8,8 @@ node_modules/
 dist/
 web-build/
 
+data/
+
 # Native
 *.orig.*
 *.jks
@@ -33,3 +35,5 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+hwandong-1cdba-c1275e4a28a3.json
